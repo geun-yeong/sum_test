@@ -7,4 +7,6 @@ int sum(int n) {
 	}
 
 	return total;
+
+	//return (n * (n+1)) / 2;
 }
